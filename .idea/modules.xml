@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../buniyadcare.slack/.idea/buniyadcare.slack.iml" filepath="$PROJECT_DIR$/../buniyadcare.slack/.idea/buniyadcare.slack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../helloWorld/.idea/helloWorld.iml" filepath="$PROJECT_DIR$/../helloWorld/.idea/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tutorialsbin.iml" filepath="$PROJECT_DIR$/.idea/tutorialsbin.iml" />
+    </modules>
+  </component>
+</project>
